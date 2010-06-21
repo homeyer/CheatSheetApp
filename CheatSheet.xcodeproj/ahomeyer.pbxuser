@@ -1,0 +1,343 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CheatSheetAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 693}}";
+			sepNavSelRange = "{861, 0}";
+			sepNavVisRange = "{0, 862}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CheatSheetAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 693}}";
+			sepNavSelRange = "{735, 19}";
+			sepNavVisRange = "{0, 1072}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CheatSheet */ = {
+		activeExec = 0;
+		executables = (
+			27029D9811C876BA008766A5 /* CheatSheet */,
+		);
+	};
+	27029D9811C876BA008766A5 /* CheatSheet */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CheatSheet;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+		variableFormatDictionary = {
+		};
+	};
+	27029DB211C876D0008766A5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	27029DB311C876D0008766A5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	27029DB511C8770C008766A5 /* CheatSheet.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 693}}";
+			sepNavSelRange = "{427, 0}";
+			sepNavVisRange = "{0, 460}";
+		};
+	};
+	27029DB611C8770C008766A5 /* CheatSheet.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 693}}";
+			sepNavSelRange = "{655, 0}";
+			sepNavVisRange = "{0, 1050}";
+		};
+	};
+	27029F0E11C966B2008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CheatSheetAppDelegate.m */;
+		name = "CheatSheetAppDelegate.m: 29";
+		rLen = 19;
+		rLoc = 735;
+		rType = 0;
+		vrLen = 1072;
+		vrLoc = 0;
+	};
+	27029F1511C966EA008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CheatSheetAppDelegate.h */;
+		name = "CheatSheetAppDelegate.h: 31";
+		rLen = 0;
+		rLoc = 861;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 0;
+	};
+	27029F2E11C96C3B008766A5 /* CheatSheetAddEditViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 693}}";
+			sepNavSelRange = "{359, 0}";
+			sepNavVisRange = "{0, 939}";
+		};
+	};
+	27029F2F11C96C3B008766A5 /* CheatSheetAddEditViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 3861}}";
+			sepNavSelRange = "{535, 0}";
+			sepNavVisRange = "{59, 417}";
+		};
+	};
+	27029FF511C9808F008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27029FF611C9808F008766A5 /* UITableViewController.h */;
+		name = "UITableViewController.h: 17";
+		rLen = 44;
+		rLoc = 735;
+		rType = 0;
+		vrLen = 1250;
+		vrLoc = 0;
+	};
+	27029FF611C9808F008766A5 /* UITableViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITableViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewController.h;
+		sourceTree = "<absolute>";
+	};
+	2702A0B511C9AC1E008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2804200A108E984D000629CD /* CheatSheetViewController.m */;
+		name = "CheatSheetViewController.m: 49";
+		rLen = 0;
+		rLoc = 1152;
+		rType = 0;
+		vrLen = 1202;
+		vrLoc = 0;
+	};
+	2702A14211C9BD9C008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27029F2E11C96C3B008766A5 /* CheatSheetAddEditViewController.h */;
+		name = "CheatSheetAddEditViewController.h: 13";
+		rLen = 0;
+		rLoc = 359;
+		rType = 0;
+		vrLen = 939;
+		vrLoc = 0;
+	};
+	2702A14311C9BD9C008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2702A14411C9BD9C008766A5 /* UITextInputTraits.h */;
+		name = "UITextInputTraits.h: 52";
+		rLen = 106;
+		rLoc = 1811;
+		rType = 0;
+		vrLen = 2111;
+		vrLoc = 0;
+	};
+	2702A14411C9BD9C008766A5 /* UITextInputTraits.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITextInputTraits.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextInputTraits.h;
+		sourceTree = "<absolute>";
+	};
+	2702A14E11C9C020008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27029F2F11C96C3B008766A5 /* CheatSheetAddEditViewController.m */;
+		name = "CheatSheetAddEditViewController.m: 108";
+		rLen = 0;
+		rLoc = 3466;
+		rType = 0;
+		vrLen = 1946;
+		vrLoc = 2042;
+	};
+	2702A18111CA00D2008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042009108E984D000629CD /* CheatSheetViewController.h */;
+		name = "CheatSheetViewController.h: 23";
+		rLen = 0;
+		rLoc = 514;
+		rType = 0;
+		vrLen = 640;
+		vrLoc = 0;
+	};
+	2702A1ED11CA09F5008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27029DB511C8770C008766A5 /* CheatSheet.h */;
+		name = "CheatSheet.h: 21";
+		rLen = 0;
+		rLoc = 427;
+		rType = 0;
+		vrLen = 460;
+		vrLoc = 0;
+	};
+	2702A21411CA0CDA008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042007108E984D000629CD /* CheatSheetListViewController.h */;
+		name = "CheatSheetListViewController.h: 23";
+		rLen = 0;
+		rLoc = 827;
+		rType = 0;
+		vrLen = 985;
+		vrLoc = 0;
+	};
+	2702A2B111CA19F6008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27029DB611C8770C008766A5 /* CheatSheet.m */;
+		name = "CheatSheet.m: 30";
+		rLen = 0;
+		rLoc = 655;
+		rType = 0;
+		vrLen = 1050;
+		vrLoc = 0;
+	};
+	2702A2B211CA19F6008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042008108E984D000629CD /* CheatSheetListViewController.m */;
+		name = "CheatSheetListViewController.m: 95";
+		rLen = 0;
+		rLoc = 4456;
+		rType = 0;
+		vrLen = 2884;
+		vrLoc = 1265;
+	};
+	2702A2DF11CA8A81008766A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042008108E984D000629CD /* CheatSheetListViewController.m */;
+		name = "CheatSheetListViewController.m: 91";
+		rLen = 0;
+		rLoc = 3617;
+		rType = 0;
+		vrLen = 2735;
+		vrLoc = 2412;
+	};
+	2713344E11D013E20006CF63 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042008108E984D000629CD /* CheatSheetListViewController.m */;
+		name = "CheatSheetListViewController.m: 91";
+		rLen = 0;
+		rLoc = 3617;
+		rType = 0;
+		vrLen = 2794;
+		vrLoc = 2409;
+	};
+	28042007108E984D000629CD /* CheatSheetListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 693}}";
+			sepNavSelRange = "{827, 0}";
+			sepNavVisRange = "{0, 985}";
+			sepNavWindowFrame = "{{15, 4}, {752, 874}}";
+		};
+	};
+	28042008108E984D000629CD /* CheatSheetListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 3354}}";
+			sepNavSelRange = "{3617, 0}";
+			sepNavVisRange = "{2409, 2794}";
+			sepNavWindowFrame = "{{15, 4}, {752, 874}}";
+		};
+	};
+	28042009108E984D000629CD /* CheatSheetViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 693}}";
+			sepNavSelRange = "{514, 0}";
+			sepNavVisRange = "{0, 640}";
+		};
+	};
+	2804200A108E984D000629CD /* CheatSheetViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1510, 1911}}";
+			sepNavSelRange = "{1152, 0}";
+			sepNavVisRange = "{0, 1202}";
+			sepNavWindowFrame = "{{15, 4}, {752, 874}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 27029D9811C876BA008766A5 /* CheatSheet */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CheatSheet */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CheatSheet */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 27029DB311C876D0008766A5 /* Code sense */;
+		executables = (
+			27029D9811C876BA008766A5 /* CheatSheet */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					910,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298849239;
+			PBXWorkspaceStateSaveDate = 298849239;
+		};
+		perUserProjectItems = {
+			27029F0E11C966B2008766A5 = 27029F0E11C966B2008766A5 /* PBXTextBookmark */;
+			27029F1511C966EA008766A5 = 27029F1511C966EA008766A5 /* PBXTextBookmark */;
+			27029FF511C9808F008766A5 = 27029FF511C9808F008766A5 /* PBXTextBookmark */;
+			2702A0B511C9AC1E008766A5 = 2702A0B511C9AC1E008766A5 /* PBXTextBookmark */;
+			2702A14211C9BD9C008766A5 = 2702A14211C9BD9C008766A5 /* PBXTextBookmark */;
+			2702A14311C9BD9C008766A5 = 2702A14311C9BD9C008766A5 /* PBXTextBookmark */;
+			2702A14E11C9C020008766A5 = 2702A14E11C9C020008766A5 /* PBXTextBookmark */;
+			2702A18111CA00D2008766A5 = 2702A18111CA00D2008766A5 /* PBXTextBookmark */;
+			2702A1ED11CA09F5008766A5 = 2702A1ED11CA09F5008766A5 /* PBXTextBookmark */;
+			2702A21411CA0CDA008766A5 = 2702A21411CA0CDA008766A5 /* PBXTextBookmark */;
+			2702A2B111CA19F6008766A5 = 2702A2B111CA19F6008766A5 /* PBXTextBookmark */;
+			2702A2B211CA19F6008766A5 = 2702A2B211CA19F6008766A5 /* PBXTextBookmark */;
+			2702A2DF11CA8A81008766A5 = 2702A2DF11CA8A81008766A5 /* PBXTextBookmark */;
+			2713344E11D013E20006CF63 /* PBXTextBookmark */ = 2713344E11D013E20006CF63 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 27029DB211C876D0008766A5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
